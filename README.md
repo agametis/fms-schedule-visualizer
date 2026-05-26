@@ -26,7 +26,7 @@ FMS Schedule Visualizer is a FileMaker-based tool for FileMaker Server administr
 - **What it can do:** Review schedules visually, filter by task type, inspect details with tooltips, and create or edit schedules through a structured form.
 - **What it is not:** It is not a standalone website and is not intended as a replacement for FileMaker Server GUI.
 
-## Contents of User Manual
+## Contents
 
 - [Overview](#overview)
 - [What You Can Use It For](#what-you-can-use-it-for)
@@ -543,6 +543,10 @@ It does not:
 - **Save changes without Update on Server**
 
 All real schedule changes are handled through FileMaker Server Admin API.
+
+## Credits
+
+The script programming in the FileMaker database for the communication with the FileMaker Server Admin API originally comes from the [FM-Admin-API-Tool](https://github.com/SoliantMike/FM-Admin-API-Tool) by SoliantMike. This is a FileMaker tool for administering the FileMaker Server, and the scripts were partially reused or used as a basis for this project.
 
 ## Typical Use Cases
 
