@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.agametis.de/fms-schedule-visualizer_icon.png" alt="FMS Schedule Visualizer icon" width="180" height="180" />
+  <img src="https://www.agametis.de/img-fms-schedule-visualizer/fms-schedule-visualizer_icon.png" alt="FMS Schedule Visualizer icon" width="180" height="180" />
   <h1>FMS Schedule Visualizer</h1>
   <p>A FileMaker-based visual timeline for reviewing, creating, and editing FileMaker Server schedules.</p>
 
@@ -16,7 +16,7 @@
 
 FMS Schedule Visualizer is a FileMaker-based tool for FileMaker Server administrators who want to understand scheduled backups, FileMaker scripts, and system scripts visually instead of reading schedule data line by line.
 
-![FMS Schedule Visualizer main screen](https://www.agametis.de/FSM_Schedules_Vis.jpg)
+![FMS Schedule Visualizer main screen](https://www.agametis.de/img-fms-schedule-visualizer/FSM_Schedules_Vis.jpg)
 
 ## TL;DR
 
