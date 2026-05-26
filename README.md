@@ -20,6 +20,7 @@ FMS Schedule Visualizer is a FileMaker-based tool for FileMaker Server administr
 
 ## TL;DR
 
+- **How to start:** Use `admin` for user and password.
 - **What it is:** A FileMaker Database that visualizes FileMaker Server schedules on a timeline.
 - **Who it is for:** FileMaker Server administrators and support users reviewing backups, FileMaker scripts, and system scripts.
 - **Why use it:** It makes timing, overlaps, disabled schedules, errors, repeat behavior, and schedule details easier to understand at a glance.
